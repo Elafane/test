@@ -12,5 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         ListView listView = null;
+
+        if(listView == null){
+            
+        }
     }
 }
