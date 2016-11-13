@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         ListView listView = null;
 
         listView.setAdapter(null);
+        if(listView == null){
+            
+        }
     }
 }
